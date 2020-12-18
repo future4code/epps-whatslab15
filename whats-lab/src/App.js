@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import SecaoMensagem from './compontents/secaoMensagem/secaomensagem'
+import SecaoMensagem from './compontents/Secaomensagem/SecaoMensagem';
 
 class App extends React.Component {
 
