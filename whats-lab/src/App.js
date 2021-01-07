@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import SecaoMensagem from './compontents/Secaomensagem/SecaoMensagem';
+import icon from './img/tique-certo.svg'
 
 class App extends React.Component {
 
@@ -10,6 +11,7 @@ class App extends React.Component {
         <SecaoMensagem
 
         />
+       
 
       </div>
     );
